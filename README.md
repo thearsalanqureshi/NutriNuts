@@ -1,7 +1,7 @@
 # NutriNuts
 
 ### **Project Overview**
-A Flutter-based nutrition prototype app that gamifies healthy snacking by allowing users to build custom trail mixes with real-time nutritional feedback. The app combines a sleek ingredient selector with a dynamic nutritional analyzer, helping health-conscious users make informed snacking decisions.
+A nutrition prototype app that gamifies healthy snacking by allowing users to build custom trail mixes with real-time nutritional feedback. The app combines a sleek ingredient selector with a dynamic nutritional analyzer, helping health-conscious users make informed snacking decisions.
 
 ### **Problem Statement**
 Health-conscious individuals struggle to portion control and understand the nutritional impact of mixed snacks like trail mixes. They want the flexibility to create custom combinations while maintaining visibility into calories, macros, and weight limits—something pre-packaged options don't offer.
