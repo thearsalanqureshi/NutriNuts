@@ -1,4 +1,5 @@
 # NutriNuts
+![NutriNuts](https://github.com/thearsalanqureshi/NutriNuts/blob/b15a7242181a81df741c74ff1f22e81a32b0f1e9/mockup%20nutrinuts.png)
 
 ### **Project Overview**
 A nutrition prototype app that gamifies healthy snacking by allowing users to build custom trail mixes with real-time nutritional feedback. The app combines a sleek ingredient selector with a dynamic nutritional analyzer, helping health-conscious users make informed snacking decisions.
@@ -48,13 +49,14 @@ TrailMix {
 | **Nutritional accuracy** | Integrated with verified nutrition database API with fallback local cache |
 | **UI responsiveness** | Optimized rebuilds with selective widget updates |
 
- 
 
 ### **Key Learnings**
 - **Weight-based limiting** is more intuitive than item counting for portion control
 - **Visual macros** (colored categories) improve quick comprehension over raw numbers
 - **Real-time feedback** drives engagement—users enjoy seeing the mix "build" instantly
 - **Educational content** ("The Mix Theory") adds perceived value beyond the core tool
+
+
 
 ### **User Experience Highlights**
 - **Visual Progress:** Circular weight indicator (20g/50g)
